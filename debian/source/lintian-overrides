@@ -1,0 +1,3 @@
+rhash source: no-debian-changes
+rhash source: not-binnmuable-any-depends-any
+rhash source: weak-library-dev-dependency

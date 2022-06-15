@@ -1,0 +1,4 @@
+etc/rhashrc
+usr/bin/*
+usr/share/locale/*/*/*
+usr/share/man/*/*

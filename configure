@@ -226,10 +226,6 @@ for OPT do
   --extra-ldflags=*)
     BUILD_EXTRA_LDFLAGS="$BUILD_EXTRA_LDFLAGS $(get_opt_value $OPT)"
     ;;
-  *)
-      echo "unknown option $OPT"
-      exit 1
-      ;;
   esac
   shift
 done
