@@ -3,6 +3,7 @@
 /dist/librhash.pc
 /librhash/exports.sym
 po/*.gmo
+po/compile-gmo.tag
 /rhash
 /rhash_shared
 /rhash_static
