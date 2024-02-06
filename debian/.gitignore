@@ -1,0 +1,9 @@
+*.substvars
+*debhelper*
+.debhelper
+autoreconf.*
+files
+librhash-dev
+librhash0
+rhash
+tmp
